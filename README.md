@@ -1,7 +1,12 @@
 # Desenvolvimento de um Sistema de Software
 ## DSS-20-21
 
-Este trabalho foi realizado no âmbito da disciplina de DSS (2020/21) na Universidade do Minho. Assim, dividiu-se o desenvolvimento do software em 3 partes distintas:
+> Este trabalho foi realizado no âmbito da disciplina de DSS (2020/21) na Universidade do Minho.
+> 
+> Na Unidade Curricular de Desenvolvimento de Sistemas de Software foi-nos proposta a elaboração de um sistema de gestão de stocks de um armazém de uma fábrica. O principal objetivo é que o sistema desenvolvido permita armazenar e entregar matérias-primas de maneira eficiente e autónoma, através de robots designados para estas tarefas. Para tal, o sistema deverá requisitar a autenticação dos seus utilizadores, fazer a leitura dos QR-codes das paletes que entrarem no armazém, bem como calcular o percurso que todos os robots registados devem seguir. Para além destas funcionalidades, também deve conter o registo do local das paletes existentes no armazém
+no momento em que um gestor quiser consultar estes dados.
+>
+> Assim, dividiu-se o desenvolvimento do software em 3 partes distintas:
 
 - [1ª Fase](https://github.com/pVeloso19/DSS-20-21/blob/main/Grupo5_Fase1.pdf)
 
