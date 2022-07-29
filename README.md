@@ -48,4 +48,10 @@ no momento em que um gestor quiser consultar estes dados.
 
 - [3ª Fase](https://github.com/pVeloso19/DSS-20-21/blob/main/Grupo5_Fase3.pdf)
 
+> Na última fase desenvolveu-se a aplicação previamente especificada ([código aqui](https://github.com/pVeloso19/DSS-20-21/tree/main/Grupo5-SGArmaz%C3%A9m)). Para além disso realizou-se pequenas alterações para que a aplicação suportasse a persistencia dos dados, bom como se desenvolveu uma máquina de estados, para representar a interação do utilizador com a interface que foi desenvolvida.
+
+<picture>
+  <img alt="Máquina de estados" src="https://cdn.discordapp.com/attachments/1002574979252105312/1002581407677288518/diagrama_dss.png">
+</picture>
+
 ###### Nota Final: 15/20
